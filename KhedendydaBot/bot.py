@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import time
 
-TOKEN = '611206924:AAGOPTYPCueYTDIRzTi4Y_J3znlpuZmuusQ'
+TOKEN = ''
 AYUDA = 'Puedes utilizar los siguientes comandos: \n\n/ayuda - guia para usuarios'
 GRUPO = -XXXXXX 
 
